@@ -2,5 +2,10 @@
   "entity.humancompanions.knight": "Rycerz",
   "entity.humancompanions.archer": "Łucznik",
   "entity.humancompanions.arbalist": "Kusznik",
-  "container.humancompanions.companion_inventory": "Ekwipunek Kompana"
+  "entity.humancompanions.axeguard": "Topornik",
+  "container.humancompanions.companion_inventory": "Inwentarz Kompana",
+  "item.humancompanions.arbalist_spawn_egg": "Jajo Przyzywające Kusznika",
+  "item.humancompanions.archer_spawn_egg": "Jajo Przyzywające Łucznika",
+  "item.humancompanions.axeguard_spawn_egg": "Jajo Przyzywające Topornika",
+  "item.humancompanions.knight_spawn_egg": "Jajo Przyzywające Rycerza"
 }
